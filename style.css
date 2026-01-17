@@ -34,7 +34,7 @@
 ================================ */
 .PB-img-header-container {
     max-width: 850px;
-    margin: 30px auto;
+    margin: 0 auto 30px auto;
     display: flex;
     justify-content: center;
 }
